@@ -27,17 +27,17 @@ dotnet build
 By default, the app looks for `orders.json`, `products.json`, and `ingredients.json` in the application directory.
 
 ```sh
-dotnet run --project ./ConsoleApp/ConsoleApp.csproj
+dotnet run --project ./ConsoleApp/src/ConsoleApp.csproj
 ```
 
 You can also specify custom file paths:
 ```sh
-dotnet run --project ./ConsoleApp/ConsoleApp.csproj -- --orderFile path/to/orders.json --productFile path/to/products.json --ingredientsFile path/to/ingredients.json
+dotnet run --project ./ConsoleApp/src/ConsoleApp.csproj -- --orderFile path/to/orders.json --productFile path/to/products.json --ingredientsFile path/to/ingredients.json
 ```
 
 Short options are also supported:
 ```sh
-dotnet run --project ./ConsoleApp/ConsoleApp.csproj -- -o path/to/orders.json -p path/to/products.json -i path/to/ingredients.json
+dotnet run --project ./ConsoleApp/src/ConsoleApp.csproj -- -o path/to/orders.json -p path/to/products.json -i path/to/ingredients.json
 ```
 
 ## Running the Project
