@@ -1,0 +1,33 @@
+# .gitignore for .NET projects
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Test results
+TestResults/
+
+# Auto-generated files
+*.log
+*.vs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+# Packages folder can be ignored if using PackageReference
+packages/

@@ -1,0 +1,31 @@
+[
+  {
+    "ProductId": "PZ001",
+    "Ingredients": [
+      { "Name": "Dough", "Amount": 0.3 },
+      { "Name": "Tomato Sauce", "Amount": 0.1 },
+      { "Name": "Mozzarella", "Amount": 0.15 },
+      { "Name": "Basil", "Amount": 0.01 }
+    ]
+  },
+  {
+    "ProductId": "PZ002",
+    "Ingredients": [
+      { "Name": "Dough", "Amount": 0.3 },
+      { "Name": "Tomato Sauce", "Amount": 0.1 },
+      { "Name": "Mozzarella", "Amount": 0.15 },
+      { "Name": "Pepperoni", "Amount": 0.07 }
+    ]
+  },
+  {
+    "ProductId": "PZ003",
+    "Ingredients": [
+      { "Name": "Dough", "Amount": 0.3 },
+      { "Name": "Tomato Sauce", "Amount": 0.12 },
+      { "Name": "Mozzarella", "Amount": 0.13 },
+      { "Name": "Bell Pepper", "Amount": 0.05 },
+      { "Name": "Onion", "Amount": 0.04 },
+      { "Name": "Olives", "Amount": 0.03 }
+    ]
+  }
+]

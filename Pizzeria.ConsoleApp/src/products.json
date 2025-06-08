@@ -1,0 +1,17 @@
+[
+  {
+    "ProductId": "PZ001",
+    "ProductName": "Margherita",
+    "Price": 10.0
+  },
+  {
+    "ProductId": "PZ002",
+    "ProductName": "Pepperoni",
+    "Price": 12.5
+  },
+  {
+    "ProductId": "PZ003",
+    "ProductName": "Veggie",
+    "Price": 11.0
+  }
+]
